@@ -1,0 +1,6 @@
+{
+  "name": "Traffic Pulse Ethiopia",
+  "description": "Ethiopia-focused intelligent traffic management platform piloting in Addis Ababa with video analysis, vehicle tracking, incident review, and adaptive signals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
